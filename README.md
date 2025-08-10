@@ -1,6 +1,8 @@
 🍽️ Bite & Bliss
 A clean, responsive restaurant website designed as my first internship task at Slytherin Solutions.
 The site showcases a restaurant menu, location details, and an option to order online — all with a simple, user-friendly UI/UX.
+🔗 **Live Demo:** (https://bite-bliss-1syw.vercel.app/)
+
 
 🚀 Features
 Responsive design for all screen sizes 📱💻
