@@ -31,9 +31,7 @@ Bite&Bliss/
 │-- css/
 │   └── style.css
 │-- media/
-│   └── favicon.ico
-📸 Screenshots
-Add screenshots of your homepage, menu section, and mobile view here.
+│   └──bg.jpg
 
 📌 How to Run
 Clone the repository:
